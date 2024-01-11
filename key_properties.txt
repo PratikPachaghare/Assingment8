@@ -1,0 +1,56 @@
+
+1.justify-content :
+
+ is a CSS property used in Flexbox and Grid layouts to align items along the main axis. It allows you to control the distribution of space between and around items within a container.
+
+syntax : 
+    .container {
+      display: flex;
+      justify-content: value;
+    }
+
+
+2.align-items :
+
+is a CSS property used in Flexbox and Grid layouts to define how items are aligned along the cross-axis (perpendicular to the main axis). It works on the container of the flex or grid items.
+
+syntax : 
+    .container {
+      display: flex;
+      align-items: center;
+    }
+
+
+3.Gap :
+
+The gap property in CSS is used in Flexbox and Grid layouts to set the spacing between items along the main axis and cross axis. It allows you to define the gap between adjacent items in a flexible or grid container.
+
+syntax :
+
+    .container {
+      display: grid;
+      gap: value;
+    }
+
+4.flex-direction :
+
+The flex-direction property in CSS is used within a Flexbox container to define the direction of the main axis along which the flex items are placed. It also determines the direction in which the flex container's cross axis runs.
+
+syntax : 
+    .container {
+      display: flex;
+      flex-direction: value;
+    }
+
+
+5.flex-wrap :
+
+The flex-wrap property in CSS is used within a Flexbox container to control whether the flex items are forced onto a single line or can be wrapped onto multiple lines along the cross axis.
+
+syntax : 
+
+    .container {
+      display: flex;
+      flex-wrap: value;
+    }
+
