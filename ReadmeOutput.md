@@ -1,0 +1,6 @@
+![train](https://github.com/PratikPachaghare/Assingment8/assets/147168944/ff3c97f4-54bd-4a7e-8c30-da5d20572351)
+![train ticket output](https://github.com/PratikPachaghare/Assingment8/assets/147168944/eb628444-e5e2-493f-b097-64247db5c536)
+![primium](https://github.com/PratikPachaghare/Assingment8/assets/147168944/f0b9a843-d393-4b12-b13f-69581dc440cc)
+![logo2](https://github.com/PratikPachaghare/Assingment8/assets/147168944/f75618f9-0f25-43ee-b326-db41554b8ab0)
+![logo1](https://github.com/PratikPachaghare/Assingment8/assets/147168944/717a3e70-a821-4039-82d1-14ae28aba1f5)
+![flex-center](https://github.com/PratikPachaghare/Assingment8/assets/147168944/4e6e1743-ad68-4ba3-abf1-0a6421607881)
